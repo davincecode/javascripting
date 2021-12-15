@@ -1,6 +1,7 @@
 let pizza = {
-  toppings: ["cheese", "sauce", "pepperoni"],
+  toppings: ["cheese", "bacon", "pepperoni", "ham"],
   crust: "deep dish",
-  serves: 2,
+  size: ["small", "medium", "large"],
+  sauce: ["traditional", "creamy garlic"],
 };
 console.log(pizza);
