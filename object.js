@@ -1,7 +1,6 @@
-let pizza = {
-  toppings: ["cheese", "bacon", "pepperoni", "ham"],
+const pizza = {
+  toppings: ["cheese", "sauce", "pepperoni"],
   crust: "deep dish",
-  size: ["small", "medium", "large"],
-  sauce: ["traditional", "creamy garlic", "sausy"],
+  serves: 2,
 };
 console.log(pizza);
