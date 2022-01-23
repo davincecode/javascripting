@@ -1,2 +1,0 @@
-cp - copy
-mv - move
